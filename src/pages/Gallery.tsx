@@ -1,4 +1,3 @@
-
 import Navbar from "../components/Navbar";
 import { useState } from "react";
 import {
@@ -37,7 +36,7 @@ const Gallery = () => {
           <div className="w-full max-w-4xl mx-auto">
             <AspectRatio ratio={16/9}>
               <iframe
-                src="https://www.youtube.com/embed/YNSgocBMxuA"
+                src="https://www.youtube.com/embed/-WhasbY9uiE"
                 title="Boksa video"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
